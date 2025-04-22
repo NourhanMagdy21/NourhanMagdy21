@@ -2,10 +2,6 @@
   Welcome to Nourhan Magdy's profile!
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=ٍFlutter+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
-
 - 🏢 I'm a Flutter Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Flutter or anything related to Mobile development.
